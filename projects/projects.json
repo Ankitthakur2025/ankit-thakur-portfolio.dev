@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Explainable AI for Healthcare",
+    "desc": "Experience the future of healthcare with our Explainable AI System that predicts and explains risks for Heart Disease ,Diabetes and General Disease—combining accuracy with transparency.",
+    "image": "XAI",
+    "links": {
+      "view": "https://explainable-ai-for-healthcare-user-509w.onrender.com/",
+      "code": "https://github.com/Ankitthakur2025/-Explainable-AI-for-Healthcare-User-Interface.git"
+    }
+  },
+  {
+    "name": "handwritten digit recognition",
+    "desc": "his project develops a handwritten digit recognition system using the MNIST dataset. A neural network model is trained to accurately classify digits from 0 to 9.",
+    "image": "hand",
+    "links": {
+      "view": "https://youtu.be/ibGs8GCG61s?si=czSrXzHF0iXXYMKD",
+      "code": "https://github.com/Ankitthakur2025/Handwritten-Digit-Recognition.git"
+    }
+  },
+  {
+    "name": " AI virtual assistant",
+    "desc": " An AI virtual assistant built with Python that uses NLP to automate tasks, answer queries, and enhance user productivity.",
+    "image": "AI",
+    "links": {
+      "view": "https://youtu.be/Y_6QOWjfS4M?si=7LWCDUnZl9F_Zm7V",
+      "code": "https://github.com/Ankitthakur2025/AI-Virtual-Assistant.git"
+    }
+  },
+  {
+    "name": "Face emotion recognition",
+    "desc": "Face emotion recognition in Python uses machine learning and computer vision to analyze facial expressions and classify emotions like happiness, sadness, anger, and surprise.",
+    "image": "face",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Ankitthakur2025/Face-Emotion-Recognition.git"
+    }
+  },
+  {
+    "name": "Face Mask Detection System",
+    "desc": "Face Mask Detection system using Machine Learning and Arduino Nano that detects mask compliance and triggers visual and buzzer alerts for safety enforcement.",
+    "image": "Mask",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ankit-thakur025_machinelearning-arduino-facemaskdetection-activity-7201592541488586756-3SEx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqYMAcB55RXJMJ0gqWYRG3nWsk5vM6qfaw",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Swasthyasathi",
+    "desc": "Swasthyasathi is a digital healthcare initiative that improves medical accessibility through telemedicine, data analytics, and machine learning–based personalized care solutions.",
+    "image": "Swasthyasathi",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": " Iris Flowers Classification",
+    "desc": "Iris Flowers Classification is a machine learning project that classifies iris flower species based on sepal and petal measurements using algorithms like Decision Trees, SVM, and KNN.",
+    "image": "Iris",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ankit-thakur025_internshipsuccess-machinelearning-codsoft-activity-7108488903933739008-bUwY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqYMAcB55RXJMJ0gqWYRG3nWsk5vM6qfaw",
+      "code": "https://github.com/Ankitthakur2025/Iris_Flowers_Classification.git"
+    }
+  },
+  {
+    "name": "Card Fraud Detection",
+    "desc": "Card Fraud Detection is a machine learning project that identifies fraudulent credit card transactions using historical data and algorithms like Random Forest and Logistic Regression.",
+    "image": "Card",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ankit-thakur025_machinelearning-creditcardfrauddetection-activity-7105957289378889729-kU2_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqYMAcB55RXJMJ0gqWYRG3nWsk5vM6qfaw",
+      "code": "https://github.com/Ankitthakur2025/CREDIT_CARD_FRAUD_DETECTION.git"
+    }
+  },
+  {
+    "name": "Titanic Survival Prediction",
+    "desc": "Titanic Survival Prediction is a machine learning project that predicts passenger survival on the Titanic using features like age, gender, class, and fare.",
+    "image": "Titanic",
+    "links": {
+      "view": "https://www.linkedin.com/posts/ankit-thakur025_datascience-machinelearning-titanicsurvivalprediction-activity-7108487801557463041-0kW_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADqYMAcB55RXJMJ0gqWYRG3nWsk5vM6qfaw",
+      "code": "https://github.com/Ankitthakur2025/TITANIC_SURVIVAL_PREDICTION.git"
+    }
+  }
+]

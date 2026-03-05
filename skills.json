@@ -1,0 +1,73 @@
+[
+    
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+   
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+   {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/color/48/000000/numpy.png"
+    },
+   {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/color/48/000000/pandas.png"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/color/48/000000/matplotlib.png"
+    },
+   {
+        "name": "tensorflow",
+        "icon": "https://img.icons8.com/color/48/000000/tensorflow.png"
+    },
+   {
+        "name": "Jupyter Notebook",
+        "icon": "https://img.icons8.com/?size=96&id=J0SgMWzAxqFj&format=png"
+    },
+    {
+        "name": "Data Analysis",
+        "icon": "https://img.icons8.com/?size=100&id=XQxImbwAuSNW&format=png&color=000000"
+    },
+    {
+        "name": "EDA",
+        "icon": "https://img.icons8.com/?size=100&id=6jee2TKlsXy5&format=png&color=FFFFFF"
+    },
+    {
+        "name": "Data Visualization",
+        "icon": "https://img.icons8.com/?size=100&id=RjNMJdCSJoes&format=png&color=000000"
+    },
+    {
+        "name": "Arduino",
+        "icon": "https://img.icons8.com/?size=100&id=13444&format=png&color=000000"
+    },
+    {
+        "name": "Microsoft 365",
+        "icon": "https://img.icons8.com/?size=100&id=g7UKWvv49CoI&format=png&color=000000"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=97384&format=png&color=000000"
+    },
+    {
+        "name": "VS Code",
+        "icon": "https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"
+    },
+    {
+        "name": "Anaconda",
+        "icon": "https://img.icons8.com/?size=100&id=F4uMFPZgS0gt&format=png&color=000000"
+    },
+  
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }   
+]
